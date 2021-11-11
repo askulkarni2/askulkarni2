@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Sr. Specialist Solutions Architect, Containers at AWS.
+
+- 🔭 I’m currently working on [Shared Services Platform for Amazon EKS](https://github.com/aws-quickstart/ssp-amazon-eks)
+- 🌱 I’m currently learning containers, always learning something new every day ...
+- 🤔 I’m looking for help with [Shared Services Platform for Amazon EKS](https://github.com/aws-quickstart/ssp-amazon-eks), come see what we are doing and help us.
+- 😄 Pronouns: he/him/his
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=askulkarni2&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=askulkarni2&layout=compact)
